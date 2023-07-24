@@ -1,5 +1,5 @@
 # Spotify-Phishing-Page by 1zu0
-The Responsive Phishing Page for Spotify 2020
+The Responsive Phishing Page for Spotify 2023
 
 1. Change the ending of the file "hwto" to .txt and read...
 
